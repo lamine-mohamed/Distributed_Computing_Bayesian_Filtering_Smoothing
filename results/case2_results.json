@@ -1,0 +1,569 @@
+[
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.00030002800000000004
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.0003914477500000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.00053726225
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.0005035441249999999
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.0004861299499999999
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.00045912645833333317
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.00045187235714285693
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.0004422116562499998
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 256,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.00042802449999999973
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 9.684400000000002e-05
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.00011328875
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.0001484776666666667
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.000135383125
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.00012666710000000005
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.00012515637499999998
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.00012053985714285717
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.00012211350000000004
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1024,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.00012285736111111115
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.0001738545
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.00016103699999999997
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.0001912158333333333
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.00017489937499999997
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.0001673894
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.00016495970833333332
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.00016303964285714284
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.00016792875000000006
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4096,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.0001707664444444445
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.000341274
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.00031024062500000014
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.00036535333333333344
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.00034262693749999995
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.00033581854999999996
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.0003580196666666667
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.0003544809642857143
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.0003783182500000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16384,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.0003964165555555557
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.0008933160000000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.00089415475
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.00102555825
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.0013220193125000003
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.0014978430500000007
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.0018979682500000004
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.0019714579642857153
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.002156765125000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 65536,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.002299155500000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.004070339499999999
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.003882624125
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.004202597083333335
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.005838150062500002
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.007243660600000002
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.008796144916666668
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.009302931607142854
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.010344746437499996
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 262144,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.011408202666666666
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.017566328500000002
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.015760804875000006
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.016709681750000007
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.023472109250000008
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.02927116915000001
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.03592936533333333
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.038461067428571416
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.04349918828124998
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 1048576,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.04732464591666666
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.08652376975
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.0746566475
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.07583896233333332
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.11547926862499996
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.14510923794999994
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.1735696348749999
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.1882910344285713
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.21164157312499998
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 4194304,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.2303784497222222
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Linear Pipeline",
+        "time": 0.347446276
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.29696682037499994
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.31163383066666667
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Binomial Tree",
+        "time": 0.4619666426875
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Simultaneous Binomial Tree",
+        "time": 0.5745653127
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Hypercube",
+        "time": 0.6964568787916668
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "LLN",
+        "time": 0.7537237755357145
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "mpi_scan",
+        "time": 0.8566793160625
+    },
+    {
+        "mpi_size": 10,
+        "input_size": 16777216,
+        "data_type": "float",
+        "algorithm": "Recursive Doubling",
+        "time": 0.9440371848611111
+    }
+]

@@ -1,0 +1,1802 @@
+[
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 1.0605748947500189
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8379750412499902
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.5209632305000014
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9732977002500007
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8139966334999826
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.475774671499991
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9729303880000089
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8207062737500053
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.4565323545000126
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 1.0296397349999893
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.900772821749996
+    },
+    {
+        "block_size": 4,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.5347812177500089
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9111669769999935
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8475208904999931
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.48561896275001
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9567126752500172
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8064270100000073
+    },
+    {
+        "block_size": 5,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.480985408500004
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9742820197500066
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8196354899999818
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.488551996499993
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9830527567499985
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.83523229299999
+    },
+    {
+        "block_size": 6,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.4889435177499877
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9627198980000031
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8257977062500146
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.5085011317499948
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9507191067500145
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8246485792500238
+    },
+    {
+        "block_size": 7,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.4887039059999694
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7494974022500003
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6704629695000222
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.0143365069999675
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7403543810000315
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6790267570000026
+    },
+    {
+        "block_size": 8,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9917254662499602
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7557227315000148
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7576662082499581
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.1943595644999903
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.729925859500014
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7408634760000155
+    },
+    {
+        "block_size": 9,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.1730259970000247
+    },
+    {
+        "block_size": 10,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8170684405000372
+    },
+    {
+        "block_size": 10,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7786513037499958
+    },
+    {
+        "block_size": 10,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.157008469749968
+    },
+    {
+        "block_size": 11,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8083778807499868
+    },
+    {
+        "block_size": 11,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6664730464999877
+    },
+    {
+        "block_size": 11,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.987100029000004
+    },
+    {
+        "block_size": 12,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7422098654999729
+    },
+    {
+        "block_size": 12,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6695516374999784
+    },
+    {
+        "block_size": 12,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.0309943780000026
+    },
+    {
+        "block_size": 13,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7261278084999674
+    },
+    {
+        "block_size": 13,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.684607354499974
+    },
+    {
+        "block_size": 13,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.026805275249984
+    },
+    {
+        "block_size": 14,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7385412495000026
+    },
+    {
+        "block_size": 14,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6937539232500285
+    },
+    {
+        "block_size": 14,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.0021582189999663
+    },
+    {
+        "block_size": 15,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7318331049999927
+    },
+    {
+        "block_size": 15,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6846088957500172
+    },
+    {
+        "block_size": 15,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.0201471514999696
+    },
+    {
+        "block_size": 16,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.701703488000021
+    },
+    {
+        "block_size": 16,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6827176277500087
+    },
+    {
+        "block_size": 16,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9817055472500158
+    },
+    {
+        "block_size": 17,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7049766394999892
+    },
+    {
+        "block_size": 17,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6657516332500393
+    },
+    {
+        "block_size": 17,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9699231232499983
+    },
+    {
+        "block_size": 18,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.706580348249986
+    },
+    {
+        "block_size": 18,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6733397672500416
+    },
+    {
+        "block_size": 18,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9821712907499887
+    },
+    {
+        "block_size": 20,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7110514687499858
+    },
+    {
+        "block_size": 20,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.682175196500026
+    },
+    {
+        "block_size": 20,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9986472740000067
+    },
+    {
+        "block_size": 21,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7162103812499936
+    },
+    {
+        "block_size": 21,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6733609694999529
+    },
+    {
+        "block_size": 21,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.986629043750014
+    },
+    {
+        "block_size": 23,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7275983789999714
+    },
+    {
+        "block_size": 23,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6846124580000037
+    },
+    {
+        "block_size": 23,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.981122114499982
+    },
+    {
+        "block_size": 24,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6966754989999799
+    },
+    {
+        "block_size": 24,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6969900189999976
+    },
+    {
+        "block_size": 24,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9735373565000032
+    },
+    {
+        "block_size": 26,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7025740784999925
+    },
+    {
+        "block_size": 26,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6893254407500251
+    },
+    {
+        "block_size": 26,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9885375842500537
+    },
+    {
+        "block_size": 28,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7250966854999774
+    },
+    {
+        "block_size": 28,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6855026707499974
+    },
+    {
+        "block_size": 28,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9653943167500074
+    },
+    {
+        "block_size": 30,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7033085820000053
+    },
+    {
+        "block_size": 30,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6407783329999859
+    },
+    {
+        "block_size": 30,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9351597589999869
+    },
+    {
+        "block_size": 32,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6736610737499973
+    },
+    {
+        "block_size": 32,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6564084940000043
+    },
+    {
+        "block_size": 32,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9326459669999849
+    },
+    {
+        "block_size": 35,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6698449090000338
+    },
+    {
+        "block_size": 35,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6672527410000271
+    },
+    {
+        "block_size": 35,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9492597185000022
+    },
+    {
+        "block_size": 37,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6708330437499512
+    },
+    {
+        "block_size": 37,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6697839459999955
+    },
+    {
+        "block_size": 37,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9483203432500318
+    },
+    {
+        "block_size": 40,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.673479144750047
+    },
+    {
+        "block_size": 40,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6942650080000021
+    },
+    {
+        "block_size": 40,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9505624572500153
+    },
+    {
+        "block_size": 43,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6771061707500223
+    },
+    {
+        "block_size": 43,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6736703285000374
+    },
+    {
+        "block_size": 43,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9451090842499923
+    },
+    {
+        "block_size": 46,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6707514032499944
+    },
+    {
+        "block_size": 46,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6673437037499923
+    },
+    {
+        "block_size": 46,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9673314300000015
+    },
+    {
+        "block_size": 49,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6812322092499983
+    },
+    {
+        "block_size": 49,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.703349516749995
+    },
+    {
+        "block_size": 49,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9601728977499988
+    },
+    {
+        "block_size": 53,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6820161822500097
+    },
+    {
+        "block_size": 53,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6520118937500285
+    },
+    {
+        "block_size": 53,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9390723479999963
+    },
+    {
+        "block_size": 57,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6669013890000031
+    },
+    {
+        "block_size": 57,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.676052986000002
+    },
+    {
+        "block_size": 57,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9463375780000263
+    },
+    {
+        "block_size": 61,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6678899807500329
+    },
+    {
+        "block_size": 61,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6949770694999984
+    },
+    {
+        "block_size": 61,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9585852782500126
+    },
+    {
+        "block_size": 65,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.696265179500017
+    },
+    {
+        "block_size": 65,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6182246322499907
+    },
+    {
+        "block_size": 65,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.786946687999972
+    },
+    {
+        "block_size": 70,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6789462492500036
+    },
+    {
+        "block_size": 70,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6235596994999923
+    },
+    {
+        "block_size": 70,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7970637752500238
+    },
+    {
+        "block_size": 75,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.68731860325002
+    },
+    {
+        "block_size": 75,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6145146890000319
+    },
+    {
+        "block_size": 75,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7796640097500074
+    },
+    {
+        "block_size": 81,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6843725204999771
+    },
+    {
+        "block_size": 81,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6220462547500176
+    },
+    {
+        "block_size": 81,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7801162704999456
+    },
+    {
+        "block_size": 87,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6783478354999772
+    },
+    {
+        "block_size": 87,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6059973514999797
+    },
+    {
+        "block_size": 87,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7787842557500255
+    },
+    {
+        "block_size": 93,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6775173984999867
+    },
+    {
+        "block_size": 93,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6266357487500045
+    },
+    {
+        "block_size": 93,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8222421915000382
+    },
+    {
+        "block_size": 100,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.689854676499948
+    },
+    {
+        "block_size": 100,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6166925437500481
+    },
+    {
+        "block_size": 100,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8011078075000171
+    },
+    {
+        "block_size": 107,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6745803477499805
+    },
+    {
+        "block_size": 107,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6497464827500039
+    },
+    {
+        "block_size": 107,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8025870059999534
+    },
+    {
+        "block_size": 115,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6726402102499378
+    },
+    {
+        "block_size": 115,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6240962560000298
+    },
+    {
+        "block_size": 115,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7938152184999581
+    },
+    {
+        "block_size": 123,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6766763599999308
+    },
+    {
+        "block_size": 123,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6034309010000243
+    },
+    {
+        "block_size": 123,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7850549132500078
+    },
+    {
+        "block_size": 132,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7064891259999513
+    },
+    {
+        "block_size": 132,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6295679629999995
+    },
+    {
+        "block_size": 132,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8341232782499333
+    },
+    {
+        "block_size": 142,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6981412997499774
+    },
+    {
+        "block_size": 142,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6557982212499383
+    },
+    {
+        "block_size": 142,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8404244890000427
+    },
+    {
+        "block_size": 152,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7035318064999956
+    },
+    {
+        "block_size": 152,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6613739709999891
+    },
+    {
+        "block_size": 152,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8356343347500115
+    },
+    {
+        "block_size": 163,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6971981932499602
+    },
+    {
+        "block_size": 163,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6442860332499549
+    },
+    {
+        "block_size": 163,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8708062860000041
+    },
+    {
+        "block_size": 175,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7040341904999536
+    },
+    {
+        "block_size": 175,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6654975984999965
+    },
+    {
+        "block_size": 175,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8248041660000354
+    },
+    {
+        "block_size": 188,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7062409320000143
+    },
+    {
+        "block_size": 188,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.69376555249994
+    },
+    {
+        "block_size": 188,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.872657580499947
+    },
+    {
+        "block_size": 201,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6948969382499399
+    },
+    {
+        "block_size": 201,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6529002069999592
+    },
+    {
+        "block_size": 201,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8238551770000413
+    },
+    {
+        "block_size": 216,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7066938264999862
+    },
+    {
+        "block_size": 216,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6695552880000264
+    },
+    {
+        "block_size": 216,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8658198364999521
+    },
+    {
+        "block_size": 232,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7402951419999795
+    },
+    {
+        "block_size": 232,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6498712984999884
+    },
+    {
+        "block_size": 232,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8430356020000431
+    },
+    {
+        "block_size": 248,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7043271847500137
+    },
+    {
+        "block_size": 248,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6615282049999109
+    },
+    {
+        "block_size": 248,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8500142939998909
+    },
+    {
+        "block_size": 266,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6780134827499751
+    },
+    {
+        "block_size": 266,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6945843040000454
+    },
+    {
+        "block_size": 266,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8246739077499683
+    },
+    {
+        "block_size": 286,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7499747325000499
+    },
+    {
+        "block_size": 286,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6765104072499639
+    },
+    {
+        "block_size": 286,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.1371755159999566
+    },
+    {
+        "block_size": 307,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.741228587500018
+    },
+    {
+        "block_size": 307,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7619151899999679
+    },
+    {
+        "block_size": 307,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.194151544250019
+    },
+    {
+        "block_size": 329,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.940816969750017
+    },
+    {
+        "block_size": 329,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7461640392500044
+    },
+    {
+        "block_size": 329,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.9339135622500976
+    },
+    {
+        "block_size": 353,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8653841612499491
+    },
+    {
+        "block_size": 353,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8292119140000409
+    },
+    {
+        "block_size": 353,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.450782312999877
+    },
+    {
+        "block_size": 378,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9917033444999674
+    },
+    {
+        "block_size": 378,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8235167212499732
+    },
+    {
+        "block_size": 378,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.911817794000001
+    },
+    {
+        "block_size": 406,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7248529167499669
+    },
+    {
+        "block_size": 406,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8035126887499473
+    },
+    {
+        "block_size": 406,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.194467883749951
+    },
+    {
+        "block_size": 435,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8295720417500547
+    },
+    {
+        "block_size": 435,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8651292617500417
+    },
+    {
+        "block_size": 435,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.178943142000037
+    },
+    {
+        "block_size": 467,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7081844579999483
+    },
+    {
+        "block_size": 467,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7037383352500228
+    },
+    {
+        "block_size": 467,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 1.0856156967499828
+    },
+    {
+        "block_size": 501,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8068435869999462
+    },
+    {
+        "block_size": 501,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7063227522500028
+    },
+    {
+        "block_size": 501,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9428832134999539
+    },
+    {
+        "block_size": 537,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7128665840000394
+    },
+    {
+        "block_size": 537,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7349534239999684
+    },
+    {
+        "block_size": 537,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7622484749999217
+    },
+    {
+        "block_size": 576,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7388509037500057
+    },
+    {
+        "block_size": 576,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6631691564999755
+    },
+    {
+        "block_size": 576,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7326917297500017
+    },
+    {
+        "block_size": 618,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6606431549999456
+    },
+    {
+        "block_size": 618,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6940976609999439
+    },
+    {
+        "block_size": 618,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7373568202500564
+    },
+    {
+        "block_size": 663,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.676321315249993
+    },
+    {
+        "block_size": 663,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7409084510000525
+    },
+    {
+        "block_size": 663,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7955059695000273
+    },
+    {
+        "block_size": 711,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6445402352500196
+    },
+    {
+        "block_size": 711,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7303466912500198
+    },
+    {
+        "block_size": 711,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.6530637925000065
+    },
+    {
+        "block_size": 763,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6451454872499767
+    },
+    {
+        "block_size": 763,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7362134982499811
+    },
+    {
+        "block_size": 763,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7610437105000187
+    },
+    {
+        "block_size": 818,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6454864125000199
+    },
+    {
+        "block_size": 818,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.675744204249952
+    },
+    {
+        "block_size": 818,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7764797827499024
+    },
+    {
+        "block_size": 877,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6867812839999488
+    },
+    {
+        "block_size": 877,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7788285479999786
+    },
+    {
+        "block_size": 877,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.6986111394999739
+    },
+    {
+        "block_size": 941,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7281951074999711
+    },
+    {
+        "block_size": 941,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7803517345000159
+    },
+    {
+        "block_size": 941,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8105491610000399
+    },
+    {
+        "block_size": 1009,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7013194302500096
+    },
+    {
+        "block_size": 1009,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6762136765000264
+    },
+    {
+        "block_size": 1009,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7431373599999915
+    },
+    {
+        "block_size": 1082,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7581573529999446
+    },
+    {
+        "block_size": 1082,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6852205592501264
+    },
+    {
+        "block_size": 1082,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8099542932500299
+    },
+    {
+        "block_size": 1161,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6617623982499481
+    },
+    {
+        "block_size": 1161,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7045428095000261
+    },
+    {
+        "block_size": 1161,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7856293029998938
+    },
+    {
+        "block_size": 1245,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6601125084999353
+    },
+    {
+        "block_size": 1245,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7557019157500235
+    },
+    {
+        "block_size": 1245,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.6877261260000296
+    },
+    {
+        "block_size": 1336,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6754814249999868
+    },
+    {
+        "block_size": 1336,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7372050177499432
+    },
+    {
+        "block_size": 1336,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7370189672499805
+    },
+    {
+        "block_size": 1433,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8920190780000326
+    },
+    {
+        "block_size": 1433,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6329698125001073
+    },
+    {
+        "block_size": 1433,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8739531422500022
+    },
+    {
+        "block_size": 1536,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.65028863925005
+    },
+    {
+        "block_size": 1536,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7227984692499945
+    },
+    {
+        "block_size": 1536,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7811954297499142
+    },
+    {
+        "block_size": 1648,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6511351775000094
+    },
+    {
+        "block_size": 1648,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.7443346692500086
+    },
+    {
+        "block_size": 1648,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8319994082499989
+    },
+    {
+        "block_size": 1767,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6383268397499364
+    },
+    {
+        "block_size": 1767,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6282416972499618
+    },
+    {
+        "block_size": 1767,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7380372945000317
+    },
+    {
+        "block_size": 1896,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6355760242500423
+    },
+    {
+        "block_size": 1896,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6815180410000039
+    },
+    {
+        "block_size": 1896,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.739230055500002
+    },
+    {
+        "block_size": 2033,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.723919849500021
+    },
+    {
+        "block_size": 2033,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6372816529999454
+    },
+    {
+        "block_size": 2033,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7501332657499802
+    },
+    {
+        "block_size": 2181,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.8668542720000119
+    },
+    {
+        "block_size": 2181,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6541543902499143
+    },
+    {
+        "block_size": 2181,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8241666992499859
+    },
+    {
+        "block_size": 2339,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6551967117499657
+    },
+    {
+        "block_size": 2339,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6025576797499639
+    },
+    {
+        "block_size": 2339,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8242471457499505
+    },
+    {
+        "block_size": 2509,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6932682207499852
+    },
+    {
+        "block_size": 2509,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6821095647499078
+    },
+    {
+        "block_size": 2509,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8555030290000332
+    },
+    {
+        "block_size": 2691,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7595374699999979
+    },
+    {
+        "block_size": 2691,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.5894600902500429
+    },
+    {
+        "block_size": 2691,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7686968379999257
+    },
+    {
+        "block_size": 2886,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7191372167500276
+    },
+    {
+        "block_size": 2886,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.653218879250062
+    },
+    {
+        "block_size": 2886,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.706590542750007
+    },
+    {
+        "block_size": 3095,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.9298966729999734
+    },
+    {
+        "block_size": 3095,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.5865415972499477
+    },
+    {
+        "block_size": 3095,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.734005207249993
+    },
+    {
+        "block_size": 3320,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.6137699774999419
+    },
+    {
+        "block_size": 3320,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.5927946517500118
+    },
+    {
+        "block_size": 3320,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.7766401892499744
+    },
+    {
+        "block_size": 3560,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7616215297500162
+    },
+    {
+        "block_size": 3560,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.8489928582499715
+    },
+    {
+        "block_size": 3560,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.9562186952499019
+    },
+    {
+        "block_size": 3819,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7821804037500328
+    },
+    {
+        "block_size": 3819,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6209779085000378
+    },
+    {
+        "block_size": 3819,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8101939754999989
+    },
+    {
+        "block_size": 4096,
+        "data_type": "matrix",
+        "algorithm": "Linear Pipeline",
+        "time": 0.7175498977499615
+    },
+    {
+        "block_size": 4096,
+        "data_type": "matrix",
+        "algorithm": "Doubly Pipelined Binary Tree",
+        "time": 0.6824799852499837
+    },
+    {
+        "block_size": 4096,
+        "data_type": "matrix",
+        "algorithm": "Pipelined Binary Tree Blocked",
+        "time": 0.8109709157499196
+    }
+]
